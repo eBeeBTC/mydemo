@@ -1,1 +1,3 @@
 # mydemo
+
+I am new to git and trying to setup my account by creating this demo....
